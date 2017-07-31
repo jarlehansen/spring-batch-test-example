@@ -1,0 +1,9 @@
+spring:
+ jpa:
+  hibernate:
+    ddl-auto: create-drop
+
+logging.level.root: WARN
+logging.level.org.springframework.context.annotation.ConfigurationClassEnhancer: ERROR
+logging.level.com.github.jarlehansen.person.JobCompletionNotificationListener: INFO
+logging.level.com.github.jarlehansen.person.PersonItemProcessor: INFO
