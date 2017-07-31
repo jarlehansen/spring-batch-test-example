@@ -9,7 +9,6 @@
     <packaging>jar</packaging>
 
     <name>spring-batch-kata</name>
-    <description></description>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
